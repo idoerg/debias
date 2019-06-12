@@ -40,7 +40,7 @@ pip install debias
 ```
 OR
 ```
-pip install git+git://github.com/Rinoahu/debias
+pip install git+git://github.com/idoerg/debias
 ```
 
 ### Initial files
